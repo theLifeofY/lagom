@@ -1,4 +1,7 @@
 # General Jekyll Config
+header_pages:
+ - about.md
+ - Resources.md
 highlighter: rouge
 url: http://example.com
 lsi: false
