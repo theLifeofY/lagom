@@ -1,5 +1,6 @@
 ---
 layout: page
-title: "Resources"
-permalink: https://theLifeofY.github.io/Resources
+title: I got laid off during COVID, now what?
+categories:
+- blog
 ---
