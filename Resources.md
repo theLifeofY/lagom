@@ -1,5 +1,8 @@
 ---
 layout: page
-title: Antiracism resources 
-permalink: antiracism
+title: Resources 
+permalink: resources
 ---
+
+## Antiracism Resources
+
